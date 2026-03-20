@@ -3,7 +3,7 @@
 
 ### 🚀 Full Stack Developer | Passionate About Video Game Development
 
-I'm a developer focused on creating interactive and efficient web experiences. Currently, I'm combining my experience in the JavaScript ecosystem with my goal of specializing in the gaming industry.
+I'm a developer focused on creating interactive and efficient web experiences. Currently, Currently I am a web developer but I would like to venture into video game development.
 
 ---
 
