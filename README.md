@@ -15,7 +15,7 @@ I'm a developer focused on creating interactive and efficient web experiences. C
 | **JavaScript** (ES6+) | Express |
 | **TypeScript** | Git & GitHub |
 | **Tailwind CSS** | PostgreSQL / MySQL |
-| **Python** |
+And Python 
 
 ---
 
