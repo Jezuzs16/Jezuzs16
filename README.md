@@ -29,7 +29,7 @@ I'm a developer focused on creating interactive and efficient web experiences. C
 ---
 
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jezuzs16&layout=compact&theme=tokyonight)
 
 ---
 
