@@ -1,7 +1,7 @@
 
 # Hi, I'm Jesus! 👋
 
-### 🚀 Full Stack Developer |
+### 🚀 Full Stack Developer
 
 I'm a developer focused on creating interactive and efficient web experiences. Currently, Currently I am a web developer but I would like to venture into video game development.
 
