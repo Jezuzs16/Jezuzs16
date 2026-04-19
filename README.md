@@ -3,7 +3,7 @@
 
 ### 🚀 Full Stack Developer
 
-I'm a developer focused on creating interactive and efficient web experiences. Currently, Currently I am a web developer but I would like to venture into video game development.
+I'm a developer focused on creating interactive and efficient web experiences. Currently I am a web developer but I would like to venture into video game development.
 
 ---
 
